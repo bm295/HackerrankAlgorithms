@@ -1,0 +1,17 @@
+bin/
+obj/
+publish/
+*.user
+*.vs/
+.vs
+*.suo
+*.vscode
+logs/
+*.log
+*.db
+.DS_Store
+TestResults/
+*.vspscc
+*.cache
+*.pdb
+*.msscci
