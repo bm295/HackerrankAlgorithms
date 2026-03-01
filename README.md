@@ -1,10 +1,10 @@
 # SampleDotNetApp
 
-ASP.NET Core MVC sample that runs on Kestrel for local development. The app surfaces a health endpoint, version/environment metadata, and rolling logs so that any machine with .NET 8 can clone, build, and run without extra adjustments.
+ASP.NET Core MVC sample that runs on Kestrel for local development. The app surfaces a health endpoint, version/environment metadata, and rolling logs so that any machine with .NET 10 can clone, build, and run without extra adjustments.
 
 ## Prerequisites
 
-1. **.NET 8 SDK (x64)** – used for building, running, and publishing the project.
+1. **.NET 10 SDK (x64)** – used for building, running, and publishing the project.
 
 ## Structure
 
